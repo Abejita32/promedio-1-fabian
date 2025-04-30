@@ -17,5 +17,6 @@ namespace ConsoleApp1
             this.vida = vida;
         
         }
+        
     }
 }
